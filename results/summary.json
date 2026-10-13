@@ -1,0 +1,35 @@
+{
+  "pm25_annual_first": 10.4,
+  "pm25_annual_low": 5.8,
+  "pm25_low_year": 2022,
+  "pm25_annual_last": 6.3,
+  "last_year": 2024,
+  "pm25_drop_to_low_pct": -45,
+  "pm25_drop_to_last_pct": -40,
+  "no2_drop_pct": -38,
+  "ozone_summer_2010": 33.7,
+  "ozone_summer_last": 34.0,
+  "summer_2023_actual": 8.8,
+  "summer_2023_expected": 6.5,
+  "summer_2023_above_trend_pct": 36,
+  "summer_2023_highest_since": 2017,
+  "neighborhoods_worse_2023": "42 of 42",
+  "neighborhood_change_range_pct": [
+    17,
+    47
+  ],
+  "neighborhood_change_median_pct": 33,
+  "r_pm25_traffic": 0.75,
+  "r_pm25_trucks": 0.74,
+  "r_pm25_boilers": 0.79,
+  "r_traffic_vs_boilers": 0.8,
+  "exposure_ratio": 1.7,
+  "child_asthma_ed_ratio": 16,
+  "r_pm25_vs_child_asthma_ed": 0.06,
+  "p_pm25_vs_child_asthma_ed": 0.73,
+  "highest_child_asthma_ed": [
+    "East Harlem",
+    "Hunts Point - Mott Haven",
+    "Central Harlem - Morningside Heights"
+  ]
+}
